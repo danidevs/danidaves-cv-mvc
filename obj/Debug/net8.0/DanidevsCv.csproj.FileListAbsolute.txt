@@ -28,3 +28,4 @@ C:\Users\danie\Desktop\Danidevs\CSharp\Web\DanidevsCv\obj\Debug\net8.0\refint\Da
 C:\Users\danie\Desktop\Danidevs\CSharp\Web\DanidevsCv\obj\Debug\net8.0\DanidevsCv.pdb
 C:\Users\danie\Desktop\Danidevs\CSharp\Web\DanidevsCv\obj\Debug\net8.0\DanidevsCv.genruntimeconfig.cache
 C:\Users\danie\Desktop\Danidevs\CSharp\Web\DanidevsCv\obj\Debug\net8.0\ref\DanidevsCv.dll
+C:\Users\danie\Desktop\Danidevs\CSharp\Web\DanidevsCv\obj\Debug\net8.0\DanidevsCv.sourcelink.json
